@@ -1,7 +1,6 @@
 streamlit
 PyPDF2
 Pillow
-io
 fitz
 tempfile
 os
